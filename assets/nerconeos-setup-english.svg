@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #e0e0e0;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-size: 12px;
+      }
+
+      .cls-5, .cls-6, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        font-family: Inter-Regular, Inter;
+        font-variation-settings: 'opsz' 14, 'wght' 400;
+      }
+
+      .cls-6 {
+        opacity: .5;
+      }
+
+      .cls-7, .cls-4, .cls-8, .cls-14 {
+        opacity: .75;
+      }
+
+      .cls-7, .cls-8 {
+        font-family: Inter-Bold, Inter;
+        font-variation-settings: 'opsz' 14, 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        font-size: 48px;
+      }
+
+      .cls-15 {
+        font-family: MesloLGSNF-Regular, 'MesloLGS Nerd Font';
+        font-size: 8px;
+      }
+
+      .cls-16 {
+        fill: url(#_名称未設定グラデーション_42);
+        filter: url(#drop-shadow-3);
+      }
+
+      .cls-17 {
+        fill: url(#_名称未設定グラデーション_22);
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-18 {
+        fill: url(#_名称未設定グラデーション_27);
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-19 {
+        fill: url(#_名称未設定グラデーション_8);
+      }
+
+      .cls-20, .cls-8, .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        font-size: 18px;
+      }
+
+      .cls-21 {
+        fill: #002954;
+      }
+
+      .cls-22 {
+        opacity: .25;
+      }
+
+      .cls-23 {
+        fill: #b01a3a;
+      }
+
+      .cls-11 {
+        font-size: 20px;
+      }
+
+      .cls-24 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-25 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-26 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-30 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-31 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-32 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12 {
+        fill: gray;
+        font-size: 14px;
+      }
+
+      .cls-33 {
+        letter-spacing: 0em;
+      }
+
+      .cls-34 {
+        fill: #0080ff;
+      }
+
+      .cls-13 {
+        fill: #333;
+        font-size: 24px;
+      }
+
+      .cls-35 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-36 {
+        letter-spacing: .02em;
+      }
+
+      .cls-37 {
+        letter-spacing: .02em;
+      }
+
+      .cls-38 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-39 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション_8" data-name="名称未設定グラデーション 8" x1="960" y1="0" x2="960" y2="810" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0e0e0"/>
+      <stop offset="1" stop-color="#e0e0e0" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_22" data-name="名称未設定グラデーション 22" x1="1717.51" y1="933.51" x2="1830.49" y2="1046.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00a0ff"/>
+      <stop offset=".5" stop-color="#0080ff"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" x="1652" y="940" width="244" height="116" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="10"/>
+      <feFlood flood-color="#000" flood-opacity=".15"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_名称未設定グラデーション_27" data-name="名称未設定グラデーション 27" x1="1425.51" y1="915.51" x2="1574.49" y2="1064.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0e0e0"/>
+      <stop offset=".5" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="drop-shadow-2" x="1342" y="940" width="316" height="116" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="10"/>
+      <feFlood flood-color="#000" flood-opacity=".15"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_名称未設定グラデーション_42" data-name="名称未設定グラデーション 42" x1="107.51" y1="923.51" x2="256.49" y2="1072.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".5" stop-color="#e0e0e0"/>
+    </linearGradient>
+    <filter id="drop-shadow-3" x="24" y="940" width="316" height="116" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="10"/>
+      <feFlood flood-color="#000" flood-opacity=".15"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="54" y="970" width="256" height="56" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+  <g>
+    <rect class="cls-3" width="1920" height="1080"/>
+    <g>
+      <polygon class="cls-34" points="0 1080 0 540 1920 901.12 1920 1080 0 1080"/>
+      <polygon class="cls-34" points="960 1080 1920 540 1920 1080 960 1080"/>
+    </g>
+    <rect class="cls-19" width="1920" height="810"/>
+    <rect class="cls-4" width="1920" height="1080"/>
+  </g>
+  <g>
+    <rect class="cls-22" y="1072" width="1920" height="8"/>
+    <rect y="1072" width="128" height="8"/>
+  </g>
+  <g>
+    <polyline class="cls-2" points="102.5 72.05 54.5 56 54.5 80 78.5 80 102.5 56 102.5 80 90 80"/>
+    <g>
+      <path d="M127.64,81.39c-2.24,0-4.23-.54-5.99-1.63s-3.13-2.63-4.14-4.64-1.51-4.4-1.51-7.16.5-5.17,1.51-7.18,2.39-3.56,4.14-4.65,3.75-1.63,5.99-1.63,4.23.54,5.98,1.63,3.12,2.64,4.12,4.65,1.5,4.4,1.5,7.18-.5,5.15-1.5,7.16-2.38,3.56-4.12,4.64-3.74,1.63-5.98,1.63ZM127.64,78.3c1.56,0,2.97-.4,4.23-1.19s2.26-1.96,3.01-3.5,1.12-3.42,1.12-5.65-.37-4.15-1.12-5.69-1.75-2.71-3.01-3.5-2.67-1.19-4.23-1.19-2.99.4-4.25,1.2-2.27,1.97-3.01,3.51-1.12,3.43-1.12,5.67.37,4.11,1.12,5.64,1.75,2.7,3.01,3.5,2.68,1.2,4.25,1.2Z"/>
+      <path d="M152.93,81.5c-1.89,0-3.52-.3-4.91-.91s-2.48-1.46-3.26-2.56-1.23-2.38-1.34-3.84h3.43c.09.98.43,1.8,1,2.43s1.31,1.11,2.21,1.42,1.85.47,2.87.47c1.18,0,2.25-.19,3.19-.58s1.69-.93,2.24-1.63.83-1.52.83-2.44c0-.84-.24-1.53-.71-2.06s-1.1-.96-1.89-1.3-1.65-.64-2.58-.9l-3.16-.9c-2.11-.6-3.75-1.45-4.92-2.57s-1.76-2.54-1.76-4.27c0-1.48.4-2.77,1.2-3.88s1.88-1.97,3.23-2.58,2.88-.91,4.57-.91,3.25.3,4.57.91,2.37,1.44,3.14,2.49,1.17,2.24,1.22,3.56h-3.27c-.15-1.28-.76-2.26-1.83-2.96s-2.38-1.05-3.94-1.05c-1.12,0-2.11.18-2.96.55s-1.51.87-1.98,1.51-.7,1.37-.7,2.19c0,.91.28,1.65.85,2.21s1.24.99,2.02,1.3,1.49.55,2.12.73l2.62.72c.7.19,1.48.45,2.33.77s1.66.76,2.43,1.31,1.41,1.24,1.91,2.07.75,1.87.75,3.08c0,1.43-.37,2.72-1.12,3.87s-1.83,2.06-3.24,2.72-3.13,1-5.15,1Z"/>
+    </g>
+    <g>
+      <path d="M184.56,81.5c-1.7,0-3.18-.29-4.43-.86-1.25-.57-2.24-1.37-2.96-2.4-.72-1.03-1.13-2.21-1.22-3.56h1.69c.08,1.08.42,2.01,1.03,2.8.6.79,1.41,1.4,2.43,1.82,1.01.42,2.17.63,3.47.63,1.39,0,2.62-.24,3.69-.71,1.07-.47,1.9-1.14,2.51-2,.6-.86.91-1.85.91-2.98,0-.91-.22-1.69-.65-2.34-.43-.64-1.07-1.21-1.92-1.69-.84-.48-1.89-.91-3.15-1.28l-3.02-.91c-2.09-.63-3.66-1.49-4.73-2.57-1.07-1.08-1.6-2.41-1.6-4.01,0-1.35.36-2.55,1.07-3.59.71-1.05,1.69-1.87,2.92-2.46,1.23-.59,2.62-.89,4.18-.89s2.95.3,4.15.9,2.14,1.42,2.85,2.46c.7,1.04,1.09,2.23,1.16,3.57h-1.63c-.13-1.61-.79-2.91-1.97-3.91-1.18-1-2.71-1.5-4.59-1.5-1.25,0-2.38.23-3.37.69-.99.46-1.76,1.1-2.32,1.92-.56.81-.84,1.74-.84,2.77,0,.89.23,1.67.69,2.33.46.66,1.09,1.22,1.89,1.68.8.46,1.73.84,2.77,1.16l2.87.84c.98.3,1.89.66,2.72,1.05.83.4,1.56.87,2.18,1.41.62.54,1.1,1.17,1.44,1.89.34.72.51,1.56.51,2.51,0,1.38-.36,2.62-1.07,3.71-.72,1.09-1.72,1.95-3.02,2.58s-2.84.95-4.62.95Z"/>
+      <path d="M206.7,81.48c-1.77,0-3.31-.44-4.63-1.32s-2.34-2.08-3.06-3.61-1.08-3.27-1.08-5.23.36-3.7,1.08-5.24c.72-1.53,1.71-2.74,2.98-3.62s2.71-1.32,4.32-1.32c1.11,0,2.16.22,3.16.66.99.44,1.86,1.08,2.62,1.92.76.84,1.35,1.85,1.78,3.05.43,1.2.65,2.56.65,4.1v.74h-15.59v-1.42h14.73l-.74.56c0-1.52-.28-2.9-.83-4.13-.55-1.23-1.32-2.2-2.31-2.92-.99-.71-2.15-1.07-3.47-1.07s-2.45.36-3.47,1.09c-1.03.73-1.83,1.71-2.42,2.94-.59,1.23-.88,2.6-.88,4.11v.65c0,1.64.28,3.11.85,4.4.57,1.3,1.39,2.32,2.46,3.07,1.07.75,2.35,1.13,3.84,1.13,1.08,0,2-.18,2.75-.54.76-.36,1.38-.8,1.86-1.33.49-.53.85-1.03,1.1-1.51l1.46.58c-.29.66-.76,1.31-1.39,1.97-.63.66-1.43,1.2-2.39,1.64-.96.44-2.09.66-3.39.66Z"/>
+      <path d="M225.34,61.41v1.44h-8.58v-1.44h8.58ZM219.68,56.73h1.58v20.13c0,1.08.26,1.87.77,2.37.52.5,1.25.67,2.2.51.13-.02.28-.05.46-.09s.33-.06.47-.09l.35,1.41c-.18.06-.37.11-.59.15-.22.04-.43.07-.62.08-1.44.21-2.57-.09-3.39-.89-.82-.8-1.23-1.92-1.23-3.37v-20.22Z"/>
+      <path d="M236.26,81.33c-1.34,0-2.51-.28-3.53-.84-1.02-.56-1.82-1.36-2.39-2.4-.57-1.04-.86-2.29-.86-3.73v-12.96h1.58v12.87c0,1.69.51,3.04,1.53,4.05,1.02,1.01,2.35,1.52,3.99,1.52,1.13,0,2.13-.24,3.02-.72.89-.48,1.59-1.15,2.11-2.01.52-.86.77-1.86.77-3v-12.71h1.6v19.65h-1.55v-4.39h.28c-.49,1.61-1.34,2.78-2.54,3.53-1.2.75-2.54,1.13-4.02,1.13Z"/>
+      <path d="M250.58,88.41v-27h1.55v4.39h.19c.3-.84.74-1.62,1.3-2.33.56-.71,1.27-1.27,2.11-1.7s1.82-.63,2.94-.63c1.57,0,2.94.43,4.11,1.3,1.17.87,2.08,2.07,2.73,3.59s.98,3.28.98,5.25-.32,3.74-.97,5.27c-.64,1.54-1.55,2.74-2.72,3.61-1.17.87-2.54,1.31-4.11,1.31-1.13,0-2.11-.22-2.94-.65-.84-.43-1.54-1.01-2.11-1.72-.57-.71-1.01-1.49-1.31-2.34h-.16v11.64h-1.58ZM258.53,80.01c1.32,0,2.46-.39,3.41-1.16s1.68-1.82,2.18-3.14c.5-1.32.76-2.8.76-4.44s-.25-3.1-.76-4.4c-.5-1.31-1.23-2.34-2.17-3.1-.94-.76-2.08-1.14-3.42-1.14s-2.46.38-3.41,1.13c-.95.75-1.68,1.78-2.19,3.08s-.76,2.78-.76,4.45.25,3.16.76,4.47c.5,1.32,1.23,2.36,2.19,3.12.95.76,2.09,1.14,3.42,1.14Z"/>
+    </g>
+  </g>
+  <text class="cls-9" transform="translate(150.82 495.2)"><tspan class="cls-30" x="0" y="0">W</tspan><tspan x="44.86" y="0">elcome ab</tspan><tspan class="cls-39" x="280.55" y="0">o</tspan><tspan x="309.8" y="0">a</tspan><tspan class="cls-27" x="336.75" y="0">r</tspan><tspan x="354.02" y="0">d!</tspan></text>
+  <text class="cls-13" transform="translate(154.04 530.61)"><tspan class="cls-30" x="0" y="0">W</tspan><tspan x="22.43" y="0">ould </tspan><tspan class="cls-28" x="78.27" y="0">y</tspan><tspan x="91.29" y="0">ou li</tspan><tspan class="cls-26" x="138.25" y="0">k</tspan><tspan x="150.88" y="0">e </tspan><tspan class="cls-33" x="171.62" y="0">t</tspan><tspan x="179.24" y="0">o configu</tspan><tspan class="cls-27" x="286.27" y="0">r</tspan><tspan x="294.9" y="0">e a </tspan><tspan class="cls-32" x="335.87" y="0">f</tspan><tspan class="cls-25" x="344.05" y="0">e</tspan><tspan x="357.61" y="0">w settings be</tspan><tspan class="cls-32" x="509.18" y="0">f</tspan><tspan x="517.36" y="0">o</tspan><tspan class="cls-27" x="531.75" y="0">r</tspan><tspan x="540.39" y="0">e </tspan><tspan class="cls-28" x="561.13" y="0">y</tspan><tspan x="574.15" y="0">ou s</tspan><tspan class="cls-38" x="622.15" y="0">t</tspan><tspan x="630.12" y="0">a</tspan><tspan class="cls-37" x="643.59" y="0">r</tspan><tspan x="653" y="0">t using Ne</tspan><tspan class="cls-27" x="768" y="0">r</tspan><tspan x="776.64" y="0">coneOS?</tspan></text>
+  <text class="cls-12" transform="translate(155.04 582.26)"><tspan x="0" y="0">If </tspan><tspan class="cls-28" x="12.88" y="0">y</tspan><tspan x="20.47" y="0">ou a</tspan><tspan class="cls-27" x="48.95" y="0">r</tspan><tspan x="53.98" y="0">e in a rush, </tspan><tspan class="cls-28" x="130.67" y="0">y</tspan><tspan x="138.26" y="0">ou </tspan><tspan class="cls-39" x="158.87" y="0">c</tspan><tspan x="167.01" y="0">an simp</tspan><tspan class="cls-38" x="218.7" y="0">l</tspan><tspan x="222.15" y="0">y select &quot;Set up la</tspan><tspan class="cls-33" x="341.8" y="0">t</tspan><tspan x="346.25" y="0">er&quot; </tspan><tspan class="cls-33" x="370.14" y="0">t</tspan><tspan x="374.58" y="0">o use the sys</tspan><tspan class="cls-33" x="462.29" y="0">t</tspan><tspan x="466.73" y="0">em as a guest. </tspan><tspan class="cls-24" x="0" y="16">Y</tspan><tspan x="8.43" y="16">ou </tspan><tspan class="cls-39" x="29.04" y="16">c</tspan><tspan x="37.17" y="16">an </tspan><tspan class="cls-27" x="57.24" y="16">r</tspan><tspan x="62.28" y="16">etu</tspan><tspan class="cls-37" x="83.3" y="16">r</tspan><tspan x="88.79" y="16">n </tspan><tspan class="cls-33" x="101" y="16">t</tspan><tspan x="105.44" y="16">o the setup p</tspan><tspan class="cls-27" x="192.23" y="16">r</tspan><tspan x="197.26" y="16">ocess at a</tspan><tspan class="cls-29" x="264.78" y="16">n</tspan><tspan x="272.84" y="16">y time </tspan><tspan class="cls-28" x="316.98" y="16">b</tspan><tspan x="325.28" y="16">y </tspan><tspan class="cls-27" x="337.09" y="16">r</tspan><tspan x="342.12" y="16">es</tspan><tspan class="cls-38" x="357.68" y="16">t</tspan><tspan x="362.33" y="16">a</tspan><tspan class="cls-37" x="370.19" y="16">r</tspan><tspan x="375.68" y="16">ting </tspan><tspan class="cls-28" x="404.44" y="16">y</tspan><tspan x="412.04" y="16">our compu</tspan><tspan class="cls-33" x="483.42" y="16">t</tspan><tspan x="487.87" y="16">er or using the sho</tspan><tspan class="cls-37" x="611.71" y="16">r</tspan><tspan class="cls-33" x="617.2" y="16">t</tspan><tspan x="621.65" y="16">cut on the guest desk</tspan><tspan class="cls-33" x="764.74" y="16">t</tspan><tspan x="769.19" y="16">op. </tspan><tspan x="0" y="32">Pl</tspan><tspan class="cls-39" x="12.33" y="32">e</tspan><tspan x="20.63" y="32">ase no</tspan><tspan class="cls-33" x="64.65" y="32">t</tspan><tspan x="69.09" y="32">e that most changes made while in guest mode will be lost a</tspan><tspan class="cls-31" x="466.55" y="32">f</tspan><tspan class="cls-33" x="471.25" y="32">t</tspan><tspan x="475.69" y="32">er a </tspan><tspan class="cls-27" x="504.86" y="32">r</tspan><tspan x="509.9" y="32">es</tspan><tspan class="cls-38" x="525.45" y="32">t</tspan><tspan x="530.1" y="32">a</tspan><tspan class="cls-37" x="537.96" y="32">r</tspan><tspan x="543.45" y="32">t. If </tspan><tspan class="cls-28" x="568.88" y="32">y</tspan><tspan x="576.47" y="32">ou h</tspan><tspan class="cls-29" x="605.36" y="32">a</tspan><tspan class="cls-28" x="613.02" y="32">v</tspan><tspan x="620.61" y="32">e impo</tspan><tspan class="cls-37" x="665.33" y="32">r</tspan><tspan class="cls-38" x="670.82" y="32">t</tspan><tspan x="675.47" y="32">ant </tspan><tspan class="cls-25" x="700.12" y="32">w</tspan><tspan x="711.33" y="32">o</tspan><tspan class="cls-37" x="719.72" y="32">r</tspan><tspan x="725.21" y="32">k </tspan><tspan class="cls-33" x="736.83" y="32">t</tspan><tspan x="741.28" y="32">o do, </tspan><tspan class="cls-25" x="778.54" y="32">w</tspan><tspan x="789.75" y="32">e </tspan><tspan class="cls-27" x="801.85" y="32">r</tspan><tspan x="806.89" y="32">ecommend completing the setup first.</tspan></text>
+  <rect class="cls-17" x="1682" y="970" width="184" height="56" rx="12" ry="12"/>
+  <text class="cls-11" transform="translate(1717.32 1005)"><tspan x="0" y="0">N</tspan><tspan class="cls-26" x="15.07" y="0">e</tspan><tspan class="cls-36" x="26.28" y="0">x</tspan><tspan x="37.59" y="0">t</tspan></text>
+  <rect class="cls-18" x="1372" y="970" width="256" height="56" rx="12" ry="12"/>
+  <text class="cls-10" transform="translate(1391.69 1005)"><tspan x="0" y="0">Set up la</tspan><tspan class="cls-33" x="74.19" y="0">t</tspan><tspan x="79.9" y="0">er</tspan></text>
+  <text class="cls-7" transform="translate(1575.99 1002.46)"><tspan x="0" y="0">ESC</tspan></text>
+  <text class="cls-5" transform="translate(37.66 1063.91)"><tspan class="cls-30" x="0" y="0">W</tspan><tspan x="11.21" y="0">elcome</tspan></text>
+  <text class="cls-6" transform="translate(140.37 1063.06)"><tspan x="0" y="0">N</tspan><tspan class="cls-26" x="9.04" y="0">e</tspan><tspan class="cls-36" x="15.77" y="0">x</tspan><tspan x="22.55" y="0">t: Ins</tspan><tspan class="cls-38" x="49.96" y="0">t</tspan><tspan x="53.94" y="0">all Additional D</tspan><tspan class="cls-39" x="138.54" y="0">r</tspan><tspan x="143.18" y="0">i</tspan><tspan class="cls-28" x="146.09" y="0">v</tspan><tspan x="152.6" y="0">ers</tspan></text>
+  <g class="cls-14">
+    <path d="M1608,987.5c1.38,0,2.5,1.12,2.5,2.5v16c0,1.38-1.12,2.5-2.5,2.5h-40c-1.38,0-2.5-1.12-2.5-2.5v-16c0-1.38,1.12-2.5,2.5-2.5h40M1608,986h-40c-2.21,0-4,1.79-4,4v16c0,2.21,1.79,4,4,4h40c2.21,0,4-1.79,4-4v-16c0-2.21-1.79-4-4-4h0Z"/>
+  </g>
+  <text class="cls-8" transform="translate(1802.19 1002.46)"><tspan x="0" y="0">ENTER</tspan></text>
+  <g class="cls-14">
+    <path class="cls-20" d="M1846,987.5c1.38,0,2.5,1.12,2.5,2.5v16c0,1.38-1.12,2.5-2.5,2.5h-48c-1.38,0-2.5-1.12-2.5-2.5v-16c0-1.38,1.12-2.5,2.5-2.5h48M1846,986h-48c-2.21,0-4,1.79-4,4v16c0,2.21,1.79,4,4,4h48c2.21,0,4-1.79,4-4v-16c0-2.21-1.79-4-4-4h0Z"/>
+  </g>
+  <rect class="cls-16" x="54" y="970" width="256" height="56" rx="12" ry="12"/>
+  <g class="cls-35">
+    <g>
+      <rect class="cls-23" x="54" y="970" width="160" height="4.31"/>
+      <rect class="cls-23" x="54" y="978.62" width="160" height="4.3"/>
+      <rect class="cls-23" x="54" y="987.23" width="160" height="4.31"/>
+      <rect class="cls-23" x="54" y="995.85" width="160" height="4.3"/>
+      <rect class="cls-23" x="54" y="1004.46" width="160" height="4.31"/>
+      <rect class="cls-23" x="54" y="1013.08" width="160" height="4.3"/>
+      <rect class="cls-23" x="54" y="1021.69" width="160" height="4.31"/>
+      <path class="cls-21" d="M54,970h64v30.15H54"/>
+    </g>
+  </g>
+  <text class="cls-10" transform="translate(234.07 1000.53)"><tspan x="0" y="0">English</tspan></text>
+  <text class="cls-15" transform="translate(269.96 1011.05)"><tspan x="0" y="0">en-US</tspan></text>
+</svg>
