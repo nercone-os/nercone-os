@@ -1,4 +1,4 @@
-![](/assets/nerconeos.svg)
+![](/assets/nerconeos.png)
 
 > [!IMPORTANT]
 > NerconeOSプロジェクトは計画段階であり、実際のソースコードなどはありません。
